@@ -1,6 +1,6 @@
 # Backtracking
 
-Backtracking is a way to speed up the search process by removing candidates when they can't be the solution of a problem.
+Backtracking is a way to speed up the process of finding data by removing candidates/data when it can't be the solution to a problem.
 
 * <https://en.wikipedia.org/wiki/Backtracking>
 * <https://en.wikipedia.org/wiki/Decision_tree_pruning>
